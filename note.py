@@ -4,7 +4,6 @@ import pandas as pd
 import os
 from datetime import datetime
 from cryptography.fernet import Fernet
-import google.generativeai as genai
 
 # --- CONFIGURATION & ENCRYPTION ---
 # (Master Faisal's private key for the Vault)
